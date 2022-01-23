@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactReduxGameView/static/css/main.e7cacb84.css",
-    "main.js": "/reactReduxGameView/static/js/main.e62f0aef.js",
+    "main.js": "/reactReduxGameView/static/js/main.a321368e.js",
     "static/js/787.a824808b.chunk.js": "/reactReduxGameView/static/js/787.a824808b.chunk.js",
     "index.html": "/reactReduxGameView/index.html",
     "main.e7cacb84.css.map": "/reactReduxGameView/static/css/main.e7cacb84.css.map",
-    "main.e62f0aef.js.map": "/reactReduxGameView/static/js/main.e62f0aef.js.map",
+    "main.a321368e.js.map": "/reactReduxGameView/static/js/main.a321368e.js.map",
     "787.a824808b.chunk.js.map": "/reactReduxGameView/static/js/787.a824808b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7cacb84.css",
-    "static/js/main.e62f0aef.js"
+    "static/js/main.a321368e.js"
   ]
 }
